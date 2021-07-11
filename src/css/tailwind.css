@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .w-fit {
+    width: fit-content;
+  }
+}
+
+@layer base {
+  button:focus {
+    outline: none;
+  }
+  input:focus {
+    outline: none;
+  }
+}

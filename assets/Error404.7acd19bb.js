@@ -1,0 +1,1 @@
+import{g as a,o as s,c as t,b as n,z as o,F as r,y as e}from"./vendor.aaf445d6.js";const u={setup:()=>({})},l=n("div",null,"404",-1),d=e("回首頁");u.render=function(e,u,f,c,i,p){const m=a("router-link");return s(),t(r,null,[l,n(m,{to:"/"},{default:o((()=>[d])),_:1})],64)};export default u;

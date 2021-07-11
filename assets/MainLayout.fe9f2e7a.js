@@ -1,0 +1,1 @@
+import{g as r,o as a,c as e,b as o}from"./vendor.aaf445d6.js";const s={},t={class:"max-w-screen-lg mx-auto"};s.render=function(s,n){const c=r("router-view");return a(),e("div",t,[o(c)])};export default s;

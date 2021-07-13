@@ -1,0 +1,1 @@
+import{j as s,o as t,c as e,b as n,B as o,F as r,A as a}from"./vendor.5e143dbf.js";const u={setup:()=>({})},l=n("div",null,"404",-1),d=a("回首頁");u.render=function(a,u,f,c,i,p){const b=s("router-link");return t(),e(r,null,[l,n(b,{to:"/"},{default:o((()=>[d])),_:1})],64)};export default u;
